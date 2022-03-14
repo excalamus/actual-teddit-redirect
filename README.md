@@ -2,15 +2,13 @@
 This simple Firefox addon actually redirects your web browser from
 reddit.com and old.reddit.com to teddit.net.
 
-```
-*NOTE*
-
-This plugin was designed for and works on Android! However, Mozilla no
-longer appears to allow users to practically install plugins on
-mobile.
-
-https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488/175
-```
+> **NOTE**
+>
+> This plugin was designed for and works on Android! However, Mozilla no
+> longer appears to allow users to practically install plugins on
+> mobile.
+>
+> https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488/175
 
 The Actual Teddit Redirect add-on is based on the [Teddit
 Redirect](https://addons.mozilla.org/en-US/firefox/addon/reddit-to-teddit-redirect/),
