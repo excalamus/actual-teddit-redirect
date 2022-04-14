@@ -8,10 +8,10 @@ reddit.com and old.reddit.com to teddit.net.
 > longer appears to allow users to practically install plugins on
 > mobile.
 >
-> https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488/175
+> https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488
 
 The Actual Teddit Redirect add-on is based on the [Teddit
-Redirect](https://addons.mozilla.org/en-US/firefox/addon/reddit-to-teddit-redirect/),
+Redirect](https://addons.mozilla.org/en-US/firefox/addon/reddit-to-teddit-redirect/)
 addon which would only redirect to Teddit *after* first going to
 Reddit.  This add-on does the text replacement *before* the request is
 made so that Reddit is never contacted by you directly.  (You can
@@ -23,6 +23,10 @@ and watching the network traffic when a request is sent.)
 > focused on privacy. Teddit doesn't require you to have JavaScript
 > enabled in your browser. The source is available on Codeberg at
 > https://codeberg.org/teddit/teddit.
+
+# Get it from the FireFox Add-on Homepage
+
+Install the Actual Teddit Redirect through the FireFox extensions directory: [Actual Teddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/actual-teddit-redirect/)
 
 # How to use the Actual Teddit Redirect
 Install the Actual Teddit Redirect add-on in order to redirect to the
