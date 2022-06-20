@@ -1,3 +1,5 @@
+Development has moved to: https://codeberg.org/excalamus/actual-teddit-redirect
+
 # Actual Reddit to Teddit
 This simple Firefox addon actually redirects your web browser from
 reddit.com and old.reddit.com to teddit.net.
